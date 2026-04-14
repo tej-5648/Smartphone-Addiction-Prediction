@@ -45,7 +45,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn jupyter
 2. Ensure the dataset `Smartphone_Usage_And_Addiction_Analysis_7500_Rows.csv` is placed in the **same directory** as the Jupyter Notebook.
 3. Launch Jupyter Notebook:
    ```bash
-   jupyter notebook "smartphone_addiction_project (2).ipynb"
+   jupyter notebook "Smartphone_Addiction_Prediction.ipynb"
    ```
 4.Click on Kernel > Restart & Run All to execute the pipeline from start to finish.
 
